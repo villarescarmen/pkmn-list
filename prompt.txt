@@ -1,0 +1,1 @@
+PROMPT: "Escríbeme un código con los lenguajes HTML, CSS y JavaScript para hacer un programa que tiene un listado con todos los Pokémon de 1ª Generación (del número 1 al 151) y con él se pueda hacer un formulario que te diga si un Pokémon que le digas es de 1ª generación."
